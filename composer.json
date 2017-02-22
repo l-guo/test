@@ -1,5 +1,5 @@
 {
-  "name": "liuchengguos/other",
+  "name": "guo/other",
   "description": "",
   "keywords": [],
   "homepage": "",
@@ -16,7 +16,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Liuchengguos\\Other\\": "src/"
+      "Guo\\Other\\": "src/"
     }
   },
   "minimum-stability": "dev"
