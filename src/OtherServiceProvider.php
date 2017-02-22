@@ -1,6 +1,6 @@
 <?php
 
-namespace Liuchengguos\Other;
+namespace Guo\Other;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Routing\Router;
